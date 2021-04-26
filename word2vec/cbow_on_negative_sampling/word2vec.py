@@ -1,5 +1,5 @@
-from cbow_on_negative_sampling.CBOW_model import CBOWModel
-from cbow_on_negative_sampling.input_data import InputData
+from cbow_model import CBOWModel
+from input_data import InputData
 import torch.optim as optim
 from tqdm import tqdm
 
