@@ -16,7 +16,7 @@ import pandas as pd
 import jieba
 import pickle
 import re
-from langconv import *
+from langconv import *  # 繁体简体转化
 
 def Traditional2Simplified(sentence):
     '''

@@ -1,0 +1,1 @@
+python train_csc.py --opts MODE '["test"]' MODEL.WEIGHTS "epoch=1-val_loss=0.05.ckpt"
